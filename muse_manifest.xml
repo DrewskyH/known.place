@@ -1,0 +1,30 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="DrewskyH.github.io" resolutions="1x" timestamp="1495691796084">
+  <folder name="css">
+    <file name="site_global.css" crc="4293994556"/>
+    <file name="master_a-master.css" crc="3761070038" ref="art:index:about:friends"/>
+    <file name="nomq_preview_master_a-master.css" crc="3965245680" ref="art:index:about:friends"/>
+    <file name="art.css" crc="232172336" ref="art"/>
+    <file name="nomq_art.css" crc="3815072352" ref="art"/>
+    <file name="index.css" crc="4157448659" ref="index"/>
+    <file name="nomq_index.css" crc="451635298" ref="index"/>
+    <file name="about.css" crc="312466437" ref="about"/>
+    <file name="nomq_about.css" crc="3847579391" ref="about"/>
+    <file name="friends.css" crc="3957333819" ref="friends"/>
+    <file name="nomq_friends.css" crc="218100898" ref="friends"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:friends"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:art:friends"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:art:friends"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:about:art:friends"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:art:friends"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:art:friends"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:friends"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:about:art:friends"/>
+    <file name="require.js" crc="4159430777" ref="index:about:art:friends"/>
+  </folder>
+  <file name="index.html" crc="78636844" seo="true" mt="1486261722888" redirect="true"/>
+  <file name="about.html" crc="3913926308" seo="true" mt="1486261722888" redirect="true"/>
+  <file name="art.html" crc="9071076" seo="true" mt="1486261722888" redirect="true"/>
+  <file name="friends.html" crc="3765706757" seo="true" mt="1486261722888" redirect="true"/>
+</manifest>
