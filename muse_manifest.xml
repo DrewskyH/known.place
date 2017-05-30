@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="known.place" resolutions="1x" timestamp="1496168524034">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="known.place" resolutions="1x" timestamp="1496178173113">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="115020086" ref="index"/>
@@ -12,5 +12,8 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <file name="index.html" crc="217747379" seo="true" mt="1496168460952" redirect="true"/>
+  <folder name="images">
+    <file name="favicon.ico" crc="91937023" ref="index"/>
+  </folder>
+  <file name="index.html" crc="291014353" seo="true" mt="1496178126202" redirect="true"/>
 </manifest>
